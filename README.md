@@ -21,7 +21,7 @@
 - numpy
 
 
-!!!Todo
+##Todo
 - [ ] Videodan yada resim setinden model oluşturma eklenecek
 - [ ] Url'den video indirme eklenecek
 - [ ] Url'den resimseti indirme eklenecek
